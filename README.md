@@ -1,4 +1,4 @@
 # Demo
 First Git Repository.
 <br>
-Author - Sajid Pasha
+Author - Sajid Badshah
